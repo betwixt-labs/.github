@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-🚀 **Betwixt Labs** is a startup focused on improving the way applications communicate. We strongly believe that developers should never have to compromise on an ergonomic experience to enjoy the benefits of binary serialization. Additionally, we are firm believers that remote procedure calls (RPC) should be as easy as writing a local function.
+🚀 **Betwixt Labs** is a startup focused on improving the way applications communicate and work with structured data. We strongly believe that developers should never have to compromise on an ergonomic experience to enjoy the benefits of binary serialization. Additionally, we are firm believers that remote procedure calls (RPC) should be as easy as writing a local function.
 
 🔬 That's why building our flagship projects:
 - [Bebop](https://github.com/betwixt-labs/bebop) 🎷 - a modern, high-performance binary serialization library enabling blazing fast, typesafe binary serialization without ceremony. 
